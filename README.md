@@ -1,6 +1,5 @@
 <div align="center">
     <h1>awesome-openai-vision-api-experiments</h1>
-    <p>learn how to plug GPT-4(V)ision with your project</p>
 </div>
 
 ## 👋 hello
