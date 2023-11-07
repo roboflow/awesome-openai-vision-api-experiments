@@ -1,0 +1,5 @@
+numpy
+opencv-python
+requests
+supervision
+gradio==3.50.2
