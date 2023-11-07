@@ -24,7 +24,13 @@ Experimenting with the OpenAI API requires an API key. You can get one [here](ht
 
 ## 🧪 Experiments
 
-|       Experiment       |         Description         | Code | HF Space |
-|:----------------------:|:---------------------------:|:----:|:--------:|
-|       WebcamGPT        |   chat with video stream    |      |          |
-| Hot Dog or not Hot Dog | simple image classification |      |          |
+|       Experiment       |         Description         |                                                                             Code                                                                              |                                                                  HF Space                                                                  |
+|:----------------------:|:---------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
+|       WebcamGPT        |   chat with video stream    | [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/roboflow/awesome-openai-vision-api-experiments/blob/main/experiments/webcam-gpt.py) | [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/Roboflow/webcamGPT) |
+| Hot Dog or not Hot Dog | simple image classification |                                                                              🚧                                                                               |                                                                     🚧                                                                     |
+
+## 🦸 Contribution
+I would love your help in making this repository even better! Whether you want to 
+correct a typo, add some new experiment, or if you have any suggestions for improvement,
+feel free to open an [issue](https://github.com/roboflow/awesome-openai-vision-api-experiments/issues) 
+or [pull request](https://github.com/roboflow/awesome-openai-vision-api-experiments/pulls).
