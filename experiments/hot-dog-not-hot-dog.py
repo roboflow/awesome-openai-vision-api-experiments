@@ -6,7 +6,11 @@ import numpy as np
 import requests
 
 MARKDOWN = """
-# 🌭 Hot Dog / Not Hot Dog (with OpenAI Vision API)
+# HotDogGPT 💬 + 🌭
+
+HotDogGPT is OpenAI Vision API experiment reproducing the famous 
+[Hot Dog, Not Hot Dog](https://www.youtube.com/watch?v=ACmydtFDTGs) app from Silicon 
+Valley.
 
 <p align="center">
     <img width="600" src="https://miro.medium.com/v2/resize:fit:650/1*VrpXE1hE4rO1roK0laOd7g.png" alt="hotdog">
