@@ -1,0 +1,3 @@
+autodistill_grounding_dino
+autodistill_gpt4v
+autodistill

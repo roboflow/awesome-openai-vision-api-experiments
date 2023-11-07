@@ -1,0 +1,3 @@
+autodistill_gpt4v
+autodistill_clip
+autodistill
