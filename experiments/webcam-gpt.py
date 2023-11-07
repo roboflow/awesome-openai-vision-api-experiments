@@ -15,6 +15,10 @@ webcamGPT is a tool that allows you to chat with video using OpenAI Vision API.
 Visit [awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) 
 repository to find more OpenAI Vision API experiments or contribute your own.
 """
+AVATARS = (
+    "https://media.roboflow.com/spaces/roboflow_raccoon_full.png",
+    "https://media.roboflow.com/spaces/openai-white-logomark.png"
+)
 IMAGE_CACHE_DIRECTORY = "data"
 API_URL = "https://api.openai.com/v1/chat/completions"
 
@@ -102,8 +106,10 @@ with gr.Blocks() as demo:
     with gr.Row():
         webcam = gr.Image(source="webcam", streaming=True)
         with gr.Column():
-            api_key_textbox = gr.Textbox(label="OpenAI API KEY", type="password")
-            chatbot = gr.Chatbot(height=500)
+            api_key_textbox = gr.Textbox(
+                label="OpenAI API KEY", type="password")
+            chatbot = gr.Chatbot(
+                height=500, bubble_full_width=False, avatar_images=AVATARS)
             message_textbox = gr.Textbox()
             clear_button = gr.ClearButton([message_textbox, chatbot])
 
