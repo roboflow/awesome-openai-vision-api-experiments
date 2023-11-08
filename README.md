@@ -2,6 +2,8 @@
     <h1>awesome-openai-vision-api-experiments</h1>
 </div>
 
+https://github.com/roboflow/awesome-openai-vision-api-experiments/assets/26109316/8ae5d246-81dd-4c87-babd-5b7e48e1d2d0
+
 ## 👋 hello
 
 A set of examples showing how to use the OpenAI vision API to run inference on images, 
