@@ -54,7 +54,6 @@ def format_entry(entry: Series) -> str:
     huggingface_url = entry.loc[HUGGINGFACE_COLUMN_NAME]
     colab_url = entry.loc[COLAB_COLUMN_NAME]
     authors = entry.loc[AUTHORS_COLUMN_NAME]
-    print(code_url, huggingface_url, colab_url)
     code_badge = GITHUB_BADGE_PATTERN.format(
         code_url) if code_url else ""
     huggingface_badge = HUGGINGFACE_BADGE_PATTERN.format(
