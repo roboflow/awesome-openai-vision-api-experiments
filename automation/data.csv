@@ -2,5 +2,5 @@ title, code, huggingface, colab, authors
 "WebcamGPT - chat with video stream","https://github.com/roboflow/awesome-openai-vision-api-experiments/blob/main/experiments/webcam-gpt","https://huggingface.co/spaces/Roboflow/webcamGPT","",@SkalskiP
 "HotDogGPT - simple image classification application","https://github.com/roboflow/awesome-openai-vision-api-experiments/blob/main/experiments/hot-dog-not-hot-dog","https://huggingface.co/spaces/Roboflow/HotDogGPT","",@SkalskiP
 "zero-shot image classifier with GPT-4V","https://github.com/roboflow/awesome-openai-vision-api-experiments/tree/main/experiments/gpt4v-classification","","",@capjamesg
-"zero-shot object detection with GroundingDINO + GPT-4V","https://github.com/roboflow/awesome-openai-vision-api-experiments/tree/main/experiments/gpt4v-grounding-dino-detection","","",@capjamesg
+"zero-shot object detection with GroundingDINO + GPT-4V","https://github.com/roboflow/awesome-openai-vision-api-experiments/tree/main/experiments/gpt4v-grounding-dino-detection","https://huggingface.co/spaces/Roboflow/DINO-GPT4V","",@capjamesg
 "GPT-4V vs. CLIP","https://github.com/roboflow/awesome-openai-vision-api-experiments/tree/main/experiments/gpt4v-vs-clip","","",@capjamesg
