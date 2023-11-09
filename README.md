@@ -1,8 +1,8 @@
 <h1 align="center">openai vision api experiments 🧪</h1>
 
-## 👋 hello
+## 👋 Hello
 
-Must-have resource for anyone who wants to experiment with and build on the [OpenAI
+The must-have resource for anyone who wants to experiment with and build on the [OpenAI
 Vision API](https://platform.openai.com/docs/guides/vision). This repository serves as
 a hub for innovative experiments, showcasing a variety of applications ranging from
 simple image classifications to advanced zero-shot learning models. It's a space for
@@ -12,7 +12,7 @@ findings, and collaborate on pushing the boundaries of visual AI.
 Experimenting with the OpenAI API requires an API 🔑. You can get one
 [here](https://platform.openai.com/api-keys).
 
-## ⚠️Limitations
+## ⚠️ Limitations
 
 - 100 API requests per single API key per day
 - Can't be used for object detection or image segmentation
