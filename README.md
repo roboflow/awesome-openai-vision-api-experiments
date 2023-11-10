@@ -44,6 +44,10 @@ by Jianwei Yang, Hao Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao
 by Zhengyuan Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Chung-Ching Lin, Zicheng Liu, Lijuan Wang
 - [GPT-4 System Card](https://cdn.openai.com/papers/gpt-4-system-card.pdf) by OpenAI
 
+## 🛠️ Tools
+
+- [Parea AI](https://parea.ai/) - A platform for debugging, testing, and monitoring LLM apps which has a [playground for GPT-4V](http://app.parea.ai/lab/session/0v)
+
 ## 🦸 Contribution
 I would love your help in making this repository even better! Whether you want to
 correct a typo, add some new experiment, or if you have any suggestions for improvement,
