@@ -5,3 +5,4 @@ title, code, huggingface, colab, authors
 "zero-shot object detection with GroundingDINO + GPT-4V","https://github.com/roboflow/awesome-openai-vision-api-experiments/tree/main/experiments/gpt4v-grounding-dino-detection","https://huggingface.co/spaces/Roboflow/DINO-GPT4V","",@capjamesg
 "GPT-4V vs. CLIP","https://github.com/roboflow/awesome-openai-vision-api-experiments/tree/main/experiments/gpt4v-vs-clip","","",@capjamesg
 "GPT-4V with Set-of-Mark (SoM)","https://github.com/microsoft/SoM","","","Jianwei Yang, Hao Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao"
+"GPT-4V audio narration","https://github.com/roboflow/awesome-openai-vision-api-experiments/tree/main/experiments/gpt4v-narration","","",@etown
