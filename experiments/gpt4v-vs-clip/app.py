@@ -1,6 +1,7 @@
 from autodistill_gpt_4v import GPT4V
 from autodistill.detection import CaptionOntology
 from autodistill_clip import CLIP
+import os
 
 prompts = ["chicago deep dish pizza", "pizza"]
 
@@ -16,7 +17,7 @@ class_result = prompts[clip_result.class_id[0]]
 
 print("CLIP result: ", class_result)
 
-gpt_4v_model = GPT4V(ontology=ontology)
+gpt_4v_model = GPT4V(ontology=ontology, api_key=os.environ["OPENAI_API_KEY"])
 
 gpt_result = gpt_4v_model.predict("deep-dish.jpg", gpt_4v_model.ontology.prompts())
 

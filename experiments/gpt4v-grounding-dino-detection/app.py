@@ -5,6 +5,7 @@ from autodistill.utils import plot
 
 from autodistill.core.custom_detection_model import CustomDetectionModel
 import cv2
+import os
 
 classes = ["mercedes", "toyota"]
 
@@ -14,7 +15,8 @@ DINOGPT = CustomDetectionModel(
         CaptionOntology({"car": "car"})
     ),
     classification_model=GPT4V(
-        CaptionOntology({k: k for k in classes})
+        CaptionOntology({k: k for k in classes}),
+        api_key=os.environ["OPENAI_API_KEY"]
     )
 )
 

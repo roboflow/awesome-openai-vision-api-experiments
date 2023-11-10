@@ -1,5 +1,6 @@
 from autodistill_gpt_4v import GPT4V
 from autodistill.detection import CaptionOntology
+import os
 
 base_model = GPT4V(
     ontology=CaptionOntology(
@@ -7,7 +8,8 @@ base_model = GPT4V(
             "salmon": "salmon",
             "carp": "carp"
         }
-    )
+    ),
+    api_key=os.environ["OPENAI_API_KEY"]
 )
 
 result = base_model.predict("fish.jpg", base_model.ontology.prompts())
