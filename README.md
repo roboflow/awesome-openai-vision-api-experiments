@@ -14,8 +14,8 @@ Experimenting with the OpenAI API requires an API 🔑. You can get one
 
 ## ⚠️ Limitations
 
-- 100 API requests per single API key per day
-- Can't be used for object detection or image segmentation out of the box, but can be used for both with Autodistill (i.e. using Autodistill's [DINO-GPT4V model](https://blog.roboflow.com/dino-gpt-4v/)).
+- 100 API requests per single API key per day.
+- Can't be used for object detection or image segmentation. We can solve this problem by combining GPT-4V with foundational models like GroundingDINO or Segment Anything (SAM). Please take a look at the [example](https://github.com/roboflow/awesome-openai-vision-api-experiments/tree/main/experiments/gpt4v-grounding-dino-detection) and read our [blog post](https://blog.roboflow.com/dino-gpt-4v).
 
 ## 🧪 Experiments
 
