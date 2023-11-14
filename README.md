@@ -32,14 +32,6 @@ Experimenting with the OpenAI API requires an API 🔑. You can get one
 
 https://github.com/roboflow/awesome-openai-vision-api-experiments/assets/26109316/c63fa3c0-4564-49ee-8982-a9e6a23dae9b
 
-## 🪶 Blogs
-
-- [How CLIP and GPT-4V Compare for Classification](https://blog.roboflow.com/clip-vs-gpt-4v/)
-- [Experiments with GPT-4V for Object Detection](https://blog.roboflow.com/gpt-4v-object-detection/)
-- [Distilling GPT-4 for Classification with an API](https://blog.roboflow.com/gpt-4-image-classification/)
-- [DINO-GPT4-V: Use GPT-4V in a Two-Stage Detection Model](https://blog.roboflow.com/dino-gpt-4v/)
-- [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
-
 ## 🗞️ Must Read Papers
 
 - [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/abs/2310.11441)
@@ -47,6 +39,14 @@ by Jianwei Yang, Hao Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao
 - [The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)](https://arxiv.org/abs/2309.17421)
 by Zhengyuan Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Chung-Ching Lin, Zicheng Liu, Lijuan Wang
 - [GPT-4 System Card](https://cdn.openai.com/papers/gpt-4-system-card.pdf) by OpenAI
+
+## 🖊️ Blogs
+
+- [How CLIP and GPT-4V Compare for Classification](https://blog.roboflow.com/clip-vs-gpt-4v/)
+- [Experiments with GPT-4V for Object Detection](https://blog.roboflow.com/gpt-4v-object-detection/)
+- [Distilling GPT-4 for Classification with an API](https://blog.roboflow.com/gpt-4-image-classification/)
+- [DINO-GPT4-V: Use GPT-4V in a Two-Stage Detection Model](https://blog.roboflow.com/dino-gpt-4v/)
+- [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
 
 ## 🦸 Contribution
 
