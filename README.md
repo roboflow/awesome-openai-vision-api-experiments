@@ -32,7 +32,7 @@ Experimenting with the OpenAI API requires an API 🔑. You can get one
 
 https://github.com/roboflow/awesome-openai-vision-api-experiments/assets/26109316/c63fa3c0-4564-49ee-8982-a9e6a23dae9b
 
-## 📝 Guides and Explorations
+## 🪶 Blogs
 
 - [How CLIP and GPT-4V Compare for Classification](https://blog.roboflow.com/clip-vs-gpt-4v/)
 - [Experiments with GPT-4V for Object Detection](https://blog.roboflow.com/gpt-4v-object-detection/)
