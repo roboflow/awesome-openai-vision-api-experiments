@@ -54,3 +54,5 @@ We would love your help in making this repository even better! Whether you want 
 add a new experiment or have any suggestions for improvement,
 feel free to open an [issue](https://github.com/roboflow/awesome-openai-vision-api-experiments/issues)
 or [pull request](https://github.com/roboflow/awesome-openai-vision-api-experiments/pulls).
+
+If you are up to the task and want to add a new experiment, please look at our [contribution guide](https://github.com/roboflow/awesome-openai-vision-api-experiments/blob/main/CONTRIBUTING.md). There you can find all the information you need.
