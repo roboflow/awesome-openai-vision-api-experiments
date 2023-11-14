@@ -48,6 +48,10 @@ by Zhengyuan Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Chung-Ching Lin, Zicheng
 - [DINO-GPT4-V: Use GPT-4V in a Two-Stage Detection Model](https://blog.roboflow.com/dino-gpt-4v/)
 - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
 
+## 🛠️ Tools
+
+- [Parea AI](https://parea.ai/) - A platform for debugging, testing, and monitoring LLM apps which has a [playground for GPT-4V](http://app.parea.ai/lab/session/0v)
+
 ## 🦸 Contribution
 
 We would love your help in making this repository even better! Whether you want to
