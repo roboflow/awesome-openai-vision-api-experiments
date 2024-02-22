@@ -2,4 +2,4 @@ numpy
 opencv-python
 requests
 supervision
-gradio==3.50.2
+gradio==4.19.2
