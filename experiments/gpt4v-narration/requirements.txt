@@ -1,4 +1,4 @@
-opencv-python-headless==4.5.5.64
+opencv-python-headless==4.8.1.78
 openai==1.2.2
 elevenlabs==0.2.24
 ffmpeg-python==0.2.0
