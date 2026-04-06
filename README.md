@@ -39,6 +39,7 @@ Experimenting with the OpenAI API requires an API 🔑. You can get one
 
 https://github.com/roboflow/awesome-openai-vision-api-experiments/assets/26109316/c63fa3c0-4564-49ee-8982-a9e6a23dae9b
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent orchestration with Claude Code. MIT licensed.
 ## 🗞️ Must Read Papers
 
 - [Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V](https://arxiv.org/abs/2310.11441)
