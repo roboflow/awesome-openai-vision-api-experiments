@@ -55,6 +55,9 @@ by Zhengyuan Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Chung-Ching Lin, Zicheng
 - [DINO-GPT4-V: Use GPT-4V in a Two-Stage Detection Model](https://blog.roboflow.com/dino-gpt-4v/)
 - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
 
+## 🔗 Related Projects
+
+- [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw
 ## 🦸 Contribution
 
 We would love your help in making this repository even better! Whether you want to
