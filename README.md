@@ -54,6 +54,7 @@ by Zhengyuan Yang, Linjie Li, Kevin Lin, Jianfeng Wang, Chung-Ching Lin, Zicheng
 - [Distilling GPT-4 for Classification with an API](https://blog.roboflow.com/gpt-4-image-classification/)
 - [DINO-GPT4-V: Use GPT-4V in a Two-Stage Detection Model](https://blog.roboflow.com/dino-gpt-4v/)
 - [First Impressions with GPT-4V(ision)](https://blog.roboflow.com/gpt-4-vision/)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## 🦸 Contribution
 
